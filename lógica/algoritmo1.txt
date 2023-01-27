@@ -1,0 +1,7 @@
+
+1.Inicio
+2. x <- 8
+3. y <- 7
+4. suma <- x+y
+5. Imprimir suma
+6.Fin

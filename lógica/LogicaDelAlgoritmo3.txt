@@ -1,0 +1,33 @@
+
+x = 2
+n = 7
+
+------
+n/x = 7/2 
+es entero? R=No
+x = x+1 = 2+1 = 3
+x == n ? R=No
+------
+n/x = 7/3 
+es entero? R=No
+x = x+1 = 3+1 = 4
+x == n ? R=No 
+------
+n/x = 7/4
+es entero? R=No
+x = x+1 = 4+1 = 5
+x == n ? R=No
+------
+n/x = 7/5
+es entero? R=No
+x = x+1 = 5+1 = 6
+x == n ? R=No
+------
+n/x = 7/6
+es entero? R=No
+x = x+1 = 6+1 = 7
+x == n ? R=Sí
+
+7 es un número primo
+
+
